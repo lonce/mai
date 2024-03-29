@@ -1,7 +1,6 @@
 import keras
 from keras.models import Sequential
 from keras.layers import Dense, Activation, Dropout
-from keras.optimizers import gradient_descent_v2
 from keras.optimizers import SGD
 import numpy as np
 
